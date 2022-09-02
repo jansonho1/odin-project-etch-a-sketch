@@ -1,0 +1,17 @@
+#container {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.gridbox {
+    box-sizing: border-box;
+    border-color: grey;
+    border-style: dotted;
+    margin: 0;
+    background-color: white;
+}
+
+
